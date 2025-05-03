@@ -1,0 +1,1 @@
+import"../../index-CsPe537V.chunk.js";import{S as e,T as s}from"../../detailed_results-h0jmEeRe.chunk.js";import{S as n,P as t}from"../../preset_utils-Bu7-wfc-.chunk.js";import{H as a}from"../../sim-B7O_7bdR.chunk.js";const r=new n,i=new t(e.SpecHolyPaladin,r);i.enableHealing(),r.raid.setPlayer(s.nextEventID(),0,i),new a(document.body,i);
